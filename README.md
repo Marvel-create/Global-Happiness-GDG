@@ -1,14 +1,3 @@
-This looks **really solid** 👌 — it’s clear, structured, and covers all the essentials.
-
-Just two quick refinements I’d suggest:
-
-1. ✅ **Add the model performance table** (R², RMSE, MSE) like we did earlier — it makes the README stronger and more complete.
-2. ✅ Format the "How to Run" section as code blocks so it’s copy-paste ready.
-
-Here’s the improved version:
-
----
-
 # 🌍 Global Happiness Report (2015–2023) – GDG Bowen University
 
 This project analyzes the **World Happiness Report data (2015–2023)** as part of the **Google Developer Group on Campus (GDG) Data & ML Lead assessment** at Bowen University.
@@ -81,6 +70,3 @@ Run the Streamlit app:
 streamlit run streamlit_app.py
 ```
 
----
-
-Would you like me to also prepare a **short README for the 2023-only repo** in the same style so both repos look consistent?
