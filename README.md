@@ -54,7 +54,7 @@ Both were evaluated on:
 Clone this repo:
 
 ```bash
-git clone https://github.com/<marvel-create/global-happiness-2015-2023.git
+git clone https://github.com/Marvel-create/global-happiness-2015-2023.git
 cd global-happiness-2015-2023
 ```
 
